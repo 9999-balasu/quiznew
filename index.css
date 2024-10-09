@@ -75,7 +75,7 @@ background-color: #9ab5ac;
     background-color: #f93c3c;
     }
     .qa_ans_row input[valid]:checked+span{
-        background-color: white;
+        background-color: green;
         color: #fff;
         }
 .qa_footer{
